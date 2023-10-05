@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "email": "movie@mail.com",
+      "password": "$2a$10$seCHD0E/E.rbYjI3JvW8mOufub1QgTuBrlcnWWV5S1ZbkEu0q0THu",
+      "id": 1
+    },
+    {
+      "email": "abc@mail.com",
+      "password": "$2a$10$y8ERVHxcTSBa.V0ZY/Tgquj0BWFJVIUZCYPTmO/sFF6K0dImJSx4y",
+      "id": 2
+    },
+    {
+      "email": "moive@mail.com",
+      "password": "$2a$10$a1F0mNoCPfWVIis/lq2XkeVyfsW5k1jKzgTR.dfJId3lBM5priy4e",
+      "id": 3
+    }
+  ]
+}
